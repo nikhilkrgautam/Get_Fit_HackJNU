@@ -31,3 +31,10 @@ To run the react app (main dashboard website):
 
 The optimized build will be present in the `build` folder. You can then deploy this folder.
 
+
+How to run the Yoga part of the app:
+
+To run the yoga app:
+
+It is a simple static website with javascript and css. It can be deployed using any server (we have used php).
+
