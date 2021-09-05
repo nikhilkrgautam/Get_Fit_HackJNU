@@ -36,5 +36,5 @@ How to run the Yoga part of the app:
 
 To run the yoga app:
 
-It is a simple static website with javascript and css. It can be deployed using any server (we have used php).
+It can be deployed using any server (we have used php). `home.html` is the main html file.
 
