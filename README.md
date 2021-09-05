@@ -1,6 +1,6 @@
 # Get_Fit_HackJNU
 
-Demo Vide: https://youtu.be/2Fya_Rl5664
+Demo Video: https://youtu.be/2Fya_Rl5664
 
 In pandemic, most of us are just sitting in front of the computer and getting fatter & unhealthy day by day. People are getting serious about their health during the pandemic but they are not motivated enough to go to gym or yoga classes.
 Exercising is boring and tiresome for beginners so they quit.
