@@ -7,3 +7,18 @@ Exercising is boring and tiresome for beginners so they quit.
 So we want to solve the problem with <strong>Stay Fit</strong>.
 
 It has guided Gym workout as well as yoga with help of ML. Anyone can access it from anywhere. Now exercising will be a fun part of life.
+
+
+
+How to run the Frontend of the app:
+
+To run the react app (main dashboard website):
+
+  `cd Frontend`
+
+  `yarn install`
+
+  `yarn build`
+
+The optimized build will be present in the `build` folder. You can then deploy this folder.
+
